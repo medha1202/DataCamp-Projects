@@ -1,0 +1,1 @@
+In this project, you'll apply your Python skills to answer a real-world question. You'll aim to discover if Netflix's movies are getting shorter over time using everything from lists and loops to pandas and matplotlib. You'll also gain experience in an essential data science skill — exploratory data analysis.
